@@ -1,4 +1,4 @@
-ud989-cat-clicker-ko-starter
+Cat Clicker in KnockoutJS
 ============================
 
 A more sophisticated, though perhaps less fun, version of [clicker cats](https://github.com/danielpowell4/clicker-cats), this project was built in the later stages of Udacity's Frontend Nanodegree program (ud989).
